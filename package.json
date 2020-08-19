@@ -1,0 +1,29 @@
+{
+  "name": "f1gametelemetryapp",
+  "version": "1.0.0",
+  "description": "APP to show data from F1 game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviGalindo/f1gameTelemetryAPP.git"
+  },
+  "keywords": [
+    "f1",
+    "telemetry",
+    "game",
+    "codemaster",
+    "nodejs"
+  ],
+  "author": "Javier Galindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaviGalindo/f1gameTelemetryAPP/issues"
+  },
+  "homepage": "https://github.com/JaviGalindo/f1gameTelemetryAPP#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
